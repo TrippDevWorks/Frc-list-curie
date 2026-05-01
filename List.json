@@ -1,75 +1,74 @@
-{'team_number': 254, 'team_name': 'The Cheesy Poofs', 'location': 'San Jose, California, USA', 'season_epa': 343.4}
-{'team_number': 125, 'team_name': 'NUTRONs', 'location': 'Revere, Massachusetts, USA', 'season_epa': 284.92}
-{'team_number': 6369, 'team_name': 'Mercenary Robotics', 'location': 'McKinney, Texas, USA', 'season_epa': 268.32}
-{'team_number': 1987, 'team_name': 'Broncobots', 'location': 'Lees Summit, Missouri, USA', 'season_epa': 239.97}
-{'team_number': 5460, 'team_name': 'Strike Zone', 'location': 'Lapeer, Michigan, USA', 'season_epa': 231.95}
-{'team_number': 6800, 'team_name': 'Valor', 'location': 'Austin, Texas, USA', 'season_epa': 214.78}
-{'team_number': 5987, 'team_name': 'Galaxia in memory of David Zohar', 'location': 'Haifa, Haifa, Israel', 'season_epa': 197.26}
-{'team_number': 9068, 'team_name': 'The Chargers', 'location': 'Littleton, Colorado, USA', 'season_epa': 191.4}
-{'team_number': 9609, 'team_name': 'Paraducks', 'location': 'Mumbai, Maharashtra, India', 'season_epa': 187.31}
-{'team_number': 9023, 'team_name': 'Future Martians', 'location': 'Sammamish, Washington, USA', 'season_epa': 181.83}
-{'team_number': 5907, 'team_name': 'CC Shambots', 'location': 'Novi, Michigan, USA', 'season_epa': 178.38}
-{'team_number': 3128, 'team_name': 'The Aluminum Narwhals', 'location': 'San Diego, California, USA', 'season_epa': 177.17}
-{'team_number': 870, 'team_name': 'TEAM  R. I. C. E.', 'location': 'Southold, New York, USA', 'season_epa': 174.74}
-{'team_number': 2992, 'team_name': 'The S.S. Prometheus', 'location': 'Mandeville, Louisiana, USA', 'season_epa': 172.96}
-{'team_number': 10254, 'team_name': 'Regal Seagulls', 'location': 'Falmouth, Massachusetts, USA', 'season_epa': 169.14}
-{'team_number': 571, 'team_name': 'Paragon Robotics', 'location': 'Windsor, Connecticut, USA', 'season_epa': 167.78}
-{'team_number': 7539, 'team_name': 'Elev8', 'location': 'Mumbai, Maharashtra, India', 'season_epa': 167.41}
-{'team_number': 294, 'team_name': 'Beach Cities Robotics', 'location': 'Redondo Beach, California, USA', 'season_epa': 164.9}
-{'team_number': 166, 'team_name': 'Chop Shop', 'location': 'Merrimack, New Hampshire, USA', 'season_epa': 160.24}
-{'team_number': 4611, 'team_name': 'OZone', 'location': 'Delaware, Ohio, USA', 'season_epa': 159.0}
-{'team_number': 5193, 'team_name': 'Pantheon', 'location': 'Saginaw, Michigan, USA', 'season_epa': 158.15}
-{'team_number': 3197, 'team_name': 'HexHounds', 'location': 'Cedarburg, Wisconsin, USA', 'season_epa': 156.31}
-{'team_number': 6773, 'team_name': 'Max Throttle Mavericks', 'location': 'McKinney, Texas, USA', 'season_epa': 151.19}
-{'team_number': 59, 'team_name': 'RamTech', 'location': 'Miami, Florida, USA', 'season_epa': 147.71}
-{'team_number': 5712, 'team_name': "Hemlock's Gray Matter", 'location': 'Hemlock, Michigan, USA', 'season_epa': 147.68}
-{'team_number': 1498, 'team_name': 'The Polar Pilots', 'location': 'Richmond, Michigan, USA', 'season_epa': 146.09}
-{'team_number': 3847, 'team_name': 'Spectrum   -△◅', 'location': 'Houston, Texas, USA', 'season_epa': 144.23}
-{'team_number': 4027, 'team_name': 'Centre Punch', 'location': 'State College, Pennsylvania, USA', 'season_epa': 143.43}
-{'team_number': 8725, 'team_name': 'MistyPanther', 'location': 'Zhonghe Dist., New Taipei, Chinese Taipei', 'season_epa': 142.72}
-{'team_number': 6045, 'team_name': 'Sabre Robotics', 'location': 'Sartell, Minnesota, USA', 'season_epa': 139.44}
-{'team_number': 3181, 'team_name': 'Pittsford Panthers', 'location': 'Pittsford, New York, USA', 'season_epa': 137.73}
-{'team_number': 5199, 'team_name': 'Robot Dolphins From Outer Space', 'location': 'Mission Viejo, California, USA', 'season_epa': 135.3}
-{'team_number': 8595, 'team_name': 'This Is How We Play', 'location': 'Sanchong ,Dist., New Taipei, Chinese Taipei', 'season_epa': 133.61}
-{'team_number': 1024, 'team_name': 'Kil-A-Bytes', 'location': 'Indianapolis, Indiana, USA', 'season_epa': 132.41}
-{'team_number': 10349, 'team_name': 'Pontiac Firebirds', 'location': 'Pontiac, Michigan, USA', 'season_epa': 126.03}
-{'team_number': 7028, 'team_name': 'Binary Battalion', 'location': 'Saint Michael, Minnesota, USA', 'season_epa': 124.62}
-{'team_number': 6497, 'team_name': 'Pymble P-Platers', 'location': 'Sydney, New South Wales, Australia', 'season_epa': 120.12}
-{'team_number': 2724, 'team_name': 'Avalanche Robotics', 'location': 'Charlotte, North Carolina, USA', 'season_epa': 120.05}
-{'team_number': 1714, 'team_name': 'MORE Robotics', 'location': 'Milwaukee, Wisconsin, USA', 'season_epa': 119.98}
-{'team_number': 1684, 'team_name': 'The Chimeras', 'location': 'Lapeer, Michigan, USA', 'season_epa': 116.19}
-{'team_number': 5572, 'team_name': 'Rosbots', 'location': 'San Antonio, Texas, USA', 'season_epa': 114.24}
-{'team_number': 7421, 'team_name': 'PrepaTec - OVERTURE', 'location': 'Monterrey, Nuevo León, Mexico', 'season_epa': 113.95}
-{'team_number': 2357, 'team_name': 'System Meltdown', 'location': 'Peculiar, Missouri, USA', 'season_epa': 113.28}
-{'team_number': 6615, 'team_name': 'Bellevillains', 'location': 'Belleville, Michigan, USA', 'season_epa': 110.21}
-{'team_number': 8280, 'team_name': 'K9.0 Robotics', 'location': 'Detroit, Michigan, USA', 'season_epa': 109.53}
-{'team_number': 6366, 'team_name': 'RAM Rodz Robotics', 'location': 'Simpsonville, South Carolina, USA', 'season_epa': 108.8}
-{'team_number': 987, 'team_name': 'HIGHROLLERS', 'location': 'Las Vegas, Nevada, USA', 'season_epa': 108.61}
-{'team_number': 8575, 'team_name': 'The Due Westerners', 'location': 'Due West, South Carolina, USA', 'season_epa': 105.53}
-{'team_number': 6417, 'team_name': 'Fridolins', 'location': 'Glarus, Glarus, Switzerland', 'season_epa': 103.47}
-{'team_number': 3932, 'team_name': 'The Dirty Mechanics', 'location': 'Boca Raton, Florida, USA', 'season_epa': 101.67}
-{'team_number': 4786, 'team_name': 'Nicolet FEAR', 'location': 'Milwaukee, Wisconsin, USA', 'season_epa': 101.6}
-{'team_number': 1477, 'team_name': 'Texas Torque', 'location': 'Conroe, Texas, USA', 'season_epa': 100.72}
-{'team_number': 2053, 'team_name': 'Southern Tier Robotics', 'location': 'Vestal, New York, USA', 'season_epa': 100.12}
-{'team_number': 2637, 'team_name': 'Phantom Catz', 'location': 'Rolling Hills Estates, California, USA', 'season_epa': 97.26}
-{'team_number': 5166, 'team_name': 'Fabricators', 'location': 'Freeland, Michigan, USA', 'season_epa': 93.79}
-{'team_number': 6413, 'team_name': 'Degrees of Freedom', 'location': 'Chandler, Arizona, USA', 'season_epa': 90.36}
-{'team_number': 2412, 'team_name': 'Robototes', 'location': 'Bellevue, Washington, USA', 'season_epa': 88.68}
-{'team_number': 7565, 'team_name': 'SESI SENAI ROBONÁTICOS', 'location': 'São Paulo, São Paulo, Brazil', 'season_epa': 86.92}
-{'team_number': 4256, 'team_name': 'Cyborg Cats', 'location': 'Town and Country, Missouri, USA', 'season_epa': 78.75}
-{'team_number': 8613, 'team_name': 'Barker Greybacks', 'location': 'Sydney, New South Wales, Australia', 'season_epa': 76.78}
-{'team_number': 302, 'team_name': 'The Dragons', 'location': 'Lake Orion, Michigan, USA', 'season_epa': 74.91}
-{'team_number': 6510, 'team_name': 'Pymble Pride', 'location': 'Pymble, New South Wales, Australia', 'season_epa': 68.54}
-{'team_number': 10922, 'team_name': 'Amped', 'location': 'Taipei, Taipei Special Municipality, Chinese Taipei', 'season_epa': 66.99}
-{'team_number': 7567, 'team_name': 'SESI SENAI OCTOPUS', 'location': 'Bauru, São Paulo, Brazil', 'season_epa': 65.49}
-{'team_number': 11318, 'team_name': 'Freedom Robotics', 'location': 'Chantilly, Virginia, USA', 'season_epa': 60.33}
-{'team_number': 2443, 'team_name': 'Blue Thunder', 'location': 'Kahului, Hawaii, USA', 'season_epa': 55.76}
-{'team_number': 9077, 'team_name': 'The Crown', 'location': 'Kadıköy, Istanbul, Türkiye', 'season_epa': 52.49}
-{'team_number': 589, 'team_name': 'Falkon Robotics', 'location': 'La Crescenta, California, USA', 'season_epa': 51.33}
-{'team_number': 3792, 'team_name': 'Army Ants', 'location': 'Columbia, Missouri, USA', 'season_epa': 40.27}
-{'team_number': 9200, 'team_name': 'SESI SENAI STARDUST', 'location': 'Limeira, São Paulo, Brazil', 'season_epa': 39.38}
-{'team_number': 11167, 'team_name': 'Team Titan', 'location': 'Rock Hill, South Carolina, USA', 'season_epa': 34.45}
-{'team_number': 9066, 'team_name': 'Cavalo Vendado', 'location': 'Erechim, Rio Grande do Sul, Brazil', 'season_epa': 28.42}
-{'team_number': 2682, 'team_name': 'Boneyard Robotics 2682', 'location': 'Greenville, North Carolina, USA', 'season_epa': 19.22}
-{'team_number': 11304, 'team_name': 'Meowbotics - Fresnillo PLC', 'location': 'Fresnillo, Zacatecas, Mexico', 'season_epa': 15.91}
-{'team_number': 11300, 'team_name': 'ZENITH', 'location': 'İstanbul, Istanbul, Türkiye', 'season_epa': 12.78}
+Epa rank: 1 | {'team_number': 254, 'team_name': 'The Cheesy Poofs', 'location': 'San Jose, California, USA', 'season_epa': 330.03},
+ Epa rank: 2 | {'team_number': 125, 'team_name': 'NUTRONs', 'location': 'Revere, Massachusetts, USA', 'season_epa': 286.71},
+ Epa rank: 3 | {'team_number': 6369, 'team_name': 'Mercenary Robotics', 'location': 'McKinney, Texas, USA', 'season_epa': 280.54},
+ Epa rank: 4 | {'team_number': 6800, 'team_name': 'Valor', 'location': 'Austin, Texas, USA', 'season_epa': 269.49},
+ Epa rank: 5 | {'team_number': 5460, 'team_name': 'Strike Zone', 'location': 'Lapeer, Michigan, USA', 'season_epa': 262.47},
+ Epa rank: 6 | {'team_number': 1987, 'team_name': 'Broncobots', 'location': 'Lees Summit, Missouri, USA', 'season_epa': 261.09},
+ Epa rank: 7 | {'team_number': 5907, 'team_name': 'CC Shambots', 'location': 'Novi, Michigan, USA', 'season_epa': 231.44},
+ Epa rank: 8 | {'team_number': 9023, 'team_name': 'Future Martians', 'location': 'Sammamish, Washington, USA', 'season_epa': 217.67},
+ Epa rank: 9 | {'team_number': 5987, 'team_name': 'Galaxia in memory of David Zohar', 'location': 'Haifa, Haifa, Israel', 'season_epa': 207.76},
+ Epa rank: 10 | {'team_number': 5193, 'team_name': 'Pantheon', 'location': 'Saginaw, Michigan, USA', 'season_epa': 206.57},
+ Epa rank: 11 | {'team_number': 870, 'team_name': 'TEAM  R. I. C. E.', 'location': 'Southold, New York, USA', 'season_epa': 195.34},
+ Epa rank: 12 | {'team_number': 3128, 'team_name': 'The Aluminum Narwhals', 'location': 'San Diego, California, USA', 'season_epa': 194.02},
+ Epa rank: 13 | {'team_number': 10254, 'team_name': 'Regal Seagulls', 'location': 'Falmouth, Massachusetts, USA', 'season_epa': 189.31},
+ Epa rank: 14 | {'team_number': 9068, 'team_name': 'The Chargers', 'location': 'Littleton, Colorado, USA', 'season_epa': 181.58},
+ Epa rank: 15 | {'team_number': 2992, 'team_name': 'The S.S. Prometheus', 'location': 'Mandeville, Louisiana, USA', 'season_epa': 180.0},
+ Epa rank: 16 | {'team_number': 3197, 'team_name': 'HexHounds', 'location': 'Cedarburg, Wisconsin, USA', 'season_epa': 179.0},
+ Epa rank: 17 | {'team_number': 9609, 'team_name': 'Paraducks', 'location': 'Mumbai, Maharashtra, India', 'season_epa': 178.93},
+ Epa rank: 18 | {'team_number': 5199, 'team_name': 'Robot Dolphins From Outer Space', 'location': 'Mission Viejo, California, USA', 'season_epa': 174.65},
+ Epa rank: 19 | {'team_number': 4611, 'team_name': 'OZone', 'location': 'Delaware, Ohio, USA', 'season_epa': 165.69},
+ Epa rank: 20 | {'team_number': 571, 'team_name': 'Paragon Robotics', 'location': 'Windsor, Connecticut, USA', 'season_epa': 164.4},
+ Epa rank: 21 | {'team_number': 7028, 'team_name': 'Binary Battalion', 'location': 'Saint Michael, Minnesota, USA', 'season_epa': 163.58},
+ Epa rank: 22 | {'team_number': 987, 'team_name': 'HIGHROLLERS', 'location': 'Las Vegas, Nevada, USA', 'season_epa': 160.62},
+ Epa rank: 23 | {'team_number': 3181, 'team_name': 'Pittsford Panthers', 'location': 'Pittsford, New York, USA', 'season_epa': 159.75},
+ Epa rank: 24 | {'team_number': 3847, 'team_name': 'Spectrum   -△◅', 'location': 'Houston, Texas, USA', 'season_epa': 159.49},
+ Epa rank: 25 | {'team_number': 1498, 'team_name': 'The Polar Pilots', 'location': 'Richmond, Michigan, USA', 'season_epa': 157.98},
+ Epa rank: 26 | {'team_number': 294, 'team_name': 'Beach Cities Robotics', 'location': 'Redondo Beach, California, USA', 'season_epa': 156.15},
+ Epa rank: 27 | {'team_number': 8595, 'team_name': 'This Is How We Play', 'location': 'Sanchong ,Dist., New Taipei, Chinese Taipei', 'season_epa': 155.1},
+ Epa rank: 28 | {'team_number': 166, 'team_name': 'Chop Shop', 'location': 'Merrimack, New Hampshire, USA', 'season_epa': 150.82},
+ Epa rank: 29 | {'team_number': 1714, 'team_name': 'MORE Robotics', 'location': 'Milwaukee, Wisconsin, USA', 'season_epa': 148.44},
+ Epa rank: 30 | {'team_number': 2724, 'team_name': 'Avalanche Robotics', 'location': 'Charlotte, North Carolina, USA', 'season_epa': 144.76},
+ Epa rank: 31 | {'team_number': 6773, 'team_name': 'Max Throttle Mavericks', 'location': 'McKinney, Texas, USA', 'season_epa': 143.38},
+ Epa rank: 32 | {'team_number': 1024, 'team_name': 'Kil-A-Bytes', 'location': 'Indianapolis, Indiana, USA', 'season_epa': 142.16},
+ Epa rank: 33 | {'team_number': 6045, 'team_name': 'Sabre Robotics', 'location': 'Sartell, Minnesota, USA', 'season_epa': 135.74},
+ Epa rank: 34 | {'team_number': 59, 'team_name': 'RamTech', 'location': 'Miami, Florida, USA', 'season_epa': 133.95},
+ Epa rank: 35 | {'team_number': 7539, 'team_name': 'Elev8', 'location': 'Mumbai, Maharashtra, India', 'season_epa': 133.45},
+ Epa rank: 36 | {'team_number': 2412, 'team_name': 'Robototes', 'location': 'Bellevue, Washington, USA', 'season_epa': 131.75},
+ Epa rank: 37 | {'team_number': 6366, 'team_name': 'RAM Rodz Robotics', 'location': 'Simpsonville, South Carolina, USA', 'season_epa': 130.77},
+ Epa rank: 38 | {'team_number': 6615, 'team_name': 'Bellevillains', 'location': 'Belleville, Michigan, USA', 'season_epa': 129.46},
+ Epa rank: 39 | {'team_number': 5572, 'team_name': 'Rosbots', 'location': 'San Antonio, Texas, USA', 'season_epa': 129.41},
+ Epa rank: 40 | {'team_number': 7565, 'team_name': 'SESI SENAI ROBONÁTICOS', 'location': 'São Paulo, São Paulo, Brazil', 'season_epa': 128.39},
+ Epa rank: 41 | {'team_number': 6497, 'team_name': 'Pymble P-Platers', 'location': 'Sydney, New South Wales, Australia', 'season_epa': 124.98},
+ Epa rank: 42 | {'team_number': 7421, 'team_name': 'PrepaTec - OVERTURE', 'location': 'Monterrey, Nuevo León, Mexico', 'season_epa': 122.16},
+ Epa rank: 43 | {'team_number': 5712, 'team_name': "Hemlock's Gray Matter", 'location': 'Hemlock, Michigan, USA', 'season_epa': 120.67},
+ Epa rank: 44 | {'team_number': 6417, 'team_name': 'Fridolins', 'location': 'Glarus, Glarus, Switzerland', 'season_epa': 118.74},
+ Epa rank: 45 | {'team_number': 8725, 'team_name': 'MistyPanther', 'location': 'Zhonghe Dist., New Taipei, Chinese Taipei', 'season_epa': 117.79},
+ Epa rank: 46 | {'team_number': 8613, 'team_name': 'Barker Greybacks', 'location': 'Sydney, New South Wales, Australia', 'season_epa': 117.66},
+ Epa rank: 47 | {'team_number': 6413, 'team_name': 'Degrees of Freedom', 'location': 'Chandler, Arizona, USA', 'season_epa': 116.74},
+ Epa rank: 48 | {'team_number': 10349, 'team_name': 'Pontiac Firebirds', 'location': 'Pontiac, Michigan, USA', 'season_epa': 115.6},
+ Epa rank: 49 | {'team_number': 4027, 'team_name': 'Centre Punch', 'location': 'State College, Pennsylvania, USA', 'season_epa': 114.87},
+ Epa rank: 50 | {'team_number': 1477, 'team_name': 'Texas Torque', 'location': 'Conroe, Texas, USA', 'season_epa': 110.36},
+ Epa rank: 51 | {'team_number': 3932, 'team_name': 'The Dirty Mechanics', 'location': 'Boca Raton, Florida, USA', 'season_epa': 100.64},
+ Epa rank: 52 | {'team_number': 2357, 'team_name': 'System Meltdown', 'location': 'Peculiar, Missouri, USA', 'season_epa': 100.44},
+ Epa rank: 53 | {'team_number': 1684, 'team_name': 'The Chimeras', 'location': 'Lapeer, Michigan, USA', 'season_epa': 100.17},
+ Epa rank: 54 | {'team_number': 6510, 'team_name': 'Pymble Pride', 'location': 'Pymble, New South Wales, Australia', 'season_epa': 96.17},
+ Epa rank: 55 | {'team_number': 5166, 'team_name': 'Fabricators', 'location': 'Freeland, Michigan, USA', 'season_epa': 95.36},
+ Epa rank: 56 | {'team_number': 2053, 'team_name': 'Southern Tier Robotics', 'location': 'Vestal, New York, USA', 'season_epa': 95.05},
+ Epa rank: 57 | {'team_number': 8575, 'team_name': 'The Due Westerners', 'location': 'Due West, South Carolina, USA', 'season_epa': 89.66},
+ Epa rank: 58 | {'team_number': 8280, 'team_name': 'K9.0 Robotics', 'location': 'Detroit, Michigan, USA', 'season_epa': 81.64},
+ Epa rank: 59 | {'team_number': 2637, 'team_name': 'Phantom Catz', 'location': 'Rolling Hills Estates, California, USA', 'season_epa': 80.63},
+ Epa rank: 60 | {'team_number': 4786, 'team_name': 'Nicolet FEAR', 'location': 'Milwaukee, Wisconsin, USA', 'season_epa': 79.38},
+ Epa rank: 61 | {'team_number': 302, 'team_name': 'The Dragons', 'location': 'Lake Orion, Michigan, USA', 'season_epa': 79.36},
+ Epa rank: 62 | {'team_number': 7567, 'team_name': 'SESI SENAI OCTOPUS', 'location': 'Bauru, São Paulo, Brazil', 'season_epa': 75.82},
+ Epa rank: 63 | {'team_number': 10922, 'team_name': 'Amped', 'location': 'Taipei, Taipei Special Municipality, Chinese Taipei', 'season_epa': 69.59},
+ Epa rank: 64 | {'team_number': 2443, 'team_name': 'Blue Thunder', 'location': 'Kahului, Hawaii, USA', 'season_epa': 65.85},
+ Epa rank: 65 | {'team_number': 9077, 'team_name': 'The Crown', 'location': 'Kadıköy, Istanbul, Türkiye', 'season_epa': 61.99},
+ Epa rank: 66 | {'team_number': 4256, 'team_name': 'Cyborg Cats', 'location': 'Town and Country, Missouri, USA', 'season_epa': 60.33},
+ Epa rank: 67 | {'team_number': 589, 'team_name': 'Falkon Robotics', 'location': 'La Crescenta, California, USA', 'season_epa': 57.9},
+ Epa rank: 68 | {'team_number': 9200, 'team_name': 'SESI SENAI STARDUST', 'location': 'Limeira, São Paulo, Brazil', 'season_epa': 51.78},
+ Epa rank: 69 | {'team_number': 11318, 'team_name': 'Freedom Robotics', 'location': 'Chantilly, Virginia, USA', 'season_epa': 48.34},
+ Epa rank: 70 | {'team_number': 3792, 'team_name': 'Army Ants', 'location': 'Columbia, Missouri, USA', 'season_epa': 42.03},
+ Epa rank: 71 | {'team_number': 9066, 'team_name': 'Cavalo Vendado', 'location': 'Erechim, Rio Grande do Sul, Brazil', 'season_epa': 40.63},
+ Epa rank: 72 | {'team_number': 2682, 'team_name': 'Boneyard Robotics 2682', 'location': 'Greenville, North Carolina, USA', 'season_epa': 29.48},
+ Epa rank: 73 | {'team_number': 11167, 'team_name': 'Team Titan', 'location': 'Rock Hill, South Carolina, USA', 'season_epa': 16.87},
+ Epa rank: 74 | {'team_number': 11304, 'team_name': 'Meowbotics - Fresnillo PLC', 'location': 'Fresnillo, Zacatecas, Mexico', 'season_epa': 2.18}
