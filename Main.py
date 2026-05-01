@@ -3,12 +3,10 @@ import time
 import csv
 import os
 
-APIKEY = "your tba key"  # regenerate yours
-EVENT = "event key here" # ex: 2026cur
-YEAR = 2026 # set to ur season year ( for epa )
-DELAY = 0.7 
+APIKEY = "ur key here"
+EVENT = "2026cur"
+YEAR = 2026
 save = True
-
 HEADERKEY = {
     "X-TBA-Auth-Key": APIKEY
 }
@@ -16,7 +14,7 @@ HEADERKEY = {
 def get(url, headers=None, retries=3):
     for attempt in range(retries):
         try:
-            response = requests.get(url, headers=headers, timeout=10)
+            response = requests.get(url, headers=headers, timeout=120)
             response.raise_for_status()
             return response
         except requests.exceptions.RequestException as e:
@@ -29,19 +27,25 @@ def get_teams():
     response = get(url, headers=HEADERKEY)
     return response.json() if response else []
 
-def get_epa(team_number):
-    url = f"https://api.statbotics.io/v3/team_year/{team_number}/{YEAR}"
+def get_epas():
+    url = f"https://api.statbotics.io/v3/team_events?year={YEAR}&event={EVENT}"
     response = get(url)
     if not response:
-        return None
+        return {}
     data = response.json()
-    return data.get("epa", {}).get("total_points", {}).get("mean")
+    epa_map = {}
+    for team in data:
+        team_number = team.get("team")
+        epa = team.get("epa", {}).get("total_points", {}).get("mean")
+        epa_map[team_number] = epa
+    return epa_map
 
 def main():
     print(f"Getting teams for event key {EVENT}...")
     teams = get_teams()
+    print("Getting epa data.")
+    epa_map = get_epas()
     results = []
-
     for team in teams:
         team_number = team.get("team_number")
         nickname = team.get("nickname")
@@ -49,24 +53,24 @@ def main():
         state = team.get("state_prov")
         country = team.get("country")
         location = ", ".join(filter(None, [city, state, country]))
-        print(f"Getting epa for {team_number}...")
-        epa = get_epa(team_number)
+        epa = epa_map.get(team_number)
         results.append({
             "team_number": team_number,
             "team_name": nickname,
             "location": location,
             "season_epa": epa
         })
-        time.sleep(DELAY)
-        
-    results.sort(key=lambda x: (x["season_epa"] is None, x["season_epa"]), reverse=True)
+    results.sort(
+        key=lambda x: (x["season_epa"] is None, x["season_epa"]),
+        reverse=True
+    )
+    eparank=0
     for team in results:
-        print(team)
-
+        eparank = eparank + 1
+        print(f" Epa rank: {eparank} | {team},")
     if save and results:
         script_dir = os.path.dirname(os.path.abspath(__file__))
         path = os.path.join(script_dir, f"{EVENT}_Teams.csv")
-    
         try:
             with open(path, "w", newline="", encoding="utf-8") as f:
                 writer = csv.DictWriter(f, fieldnames=results[0].keys())
@@ -75,6 +79,5 @@ def main():
             print(f"\nSaved to {path}")
         except PermissionError:
             print("Could not save file due to permissions.")
-            
 if __name__ == "__main__":
     main()
